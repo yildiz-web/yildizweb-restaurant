@@ -1,32 +1,34 @@
-# Démo Restaurant - Saveur Maison
+# Saveur Maison — Démo Restaurant
 
-Site vitrine moderne pour restaurant, café ou snack.
+Site vitrine moderne pour restaurant, café, snack ou fast-food.  
+Ce projet présente une page web professionnelle avec menu, galerie, avis clients, formulaire de réservation et bouton WhatsApp.
 
-## Description
+## Aperçu du projet
 
-Ce projet est une démo professionnelle créée pour présenter un restaurant en ligne.  
-Le site contient une page d’accueil, une section à propos, un menu, une galerie, des avis clients, une carte Google Maps et un formulaire de réservation via WhatsApp.
+Ce site permet à un restaurant de présenter :
 
-## Fonctionnalités
-
-- Design moderne et responsive
-- Menu avec catégories
-- Galerie d’images
-- Avis clients
-- Localisation Google Maps
-- Bouton WhatsApp flottant
-- Formulaire de réservation connecté à WhatsApp
+- Son identité visuelle
+- Ses plats principaux
+- Une galerie d’images
+- Les avis clients
+- Les informations de contact
+- Un formulaire de réservation connecté à WhatsApp
 
 ## Technologies utilisées
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
+- Google Fonts
+- WhatsApp Link API
+- Google Maps Embed
 
-## Auteur
+## Structure du projet
 
-Projet réalisé par Yildiz Web.
-
-## Contact
-
-WhatsApp : +212 699 890 818
+```txt
+restaurant-demo/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
